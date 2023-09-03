@@ -1,0 +1,11 @@
+C:\projects\Homework2.2\classshop\bin\Debug\net7.0\classshop.deps.json
+C:\projects\Homework2.2\classshop\bin\Debug\net7.0\classshop.dll
+C:\projects\Homework2.2\classshop\bin\Debug\net7.0\classshop.pdb
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.AssemblyInfoInputs.cache
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.AssemblyInfo.cs
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.csproj.CoreCompileInputs.cache
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.dll
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\refint\classshop.dll
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\classshop.pdb
+C:\projects\Homework2.2\classshop\obj\Debug\net7.0\ref\classshop.dll

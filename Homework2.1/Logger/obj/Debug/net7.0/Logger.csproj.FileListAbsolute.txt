@@ -1,0 +1,11 @@
+C:\projects\Homework2.1\Logger\bin\Debug\net7.0\Logger.deps.json
+C:\projects\Homework2.1\Logger\bin\Debug\net7.0\Logger.dll
+C:\projects\Homework2.1\Logger\bin\Debug\net7.0\Logger.pdb
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.AssemblyInfoInputs.cache
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.AssemblyInfo.cs
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.csproj.CoreCompileInputs.cache
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.dll
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\refint\Logger.dll
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\Logger.pdb
+C:\projects\Homework2.1\Logger\obj\Debug\net7.0\ref\Logger.dll

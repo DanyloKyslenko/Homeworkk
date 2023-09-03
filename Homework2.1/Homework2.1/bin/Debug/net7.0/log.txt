@@ -1,0 +1,128 @@
+03.09.2023 20:47:59: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Warning: Skipped logic in method: Method2
+03.09.2023 20:48:00: Info: Start method: Method1
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
+03.09.2023 20:48:00: Error: Action failed by a reason: I broke a logic
